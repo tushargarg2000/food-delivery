@@ -1,4 +1,4 @@
-package com.driver;
+package com.driver.test;
 
 import com.driver.io.entity.FoodEntity;
 import com.driver.io.entity.OrderEntity;
